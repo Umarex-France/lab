@@ -1,0 +1,69 @@
+{
+    "reference": "21108X",
+    "designation": "LASER UX MICRO SHOT LASER",
+    "nom": "Micro Shot Laser",
+    "reference_fournisseur": "2.1108X",
+    "division": "OPTIQUE ET LAMPES",
+    "univers": null,
+    "marque": "UX",
+    "calibre": null,
+    "puissance": null,
+    "rga": "",
+    "categorie": "",
+    "puht": 17.8,
+    "ppc": 32.95,
+    //
+    // En plus -----------------
+    "B2C": 1, // Nouveau
+    "stock": 0, // Stock
+    "ean13": "3830067345199", // Stock
+    // -------------------------
+    //
+    "caracteristiques": [
+        {
+            "text": "Pour rail de (en mm)",
+            "value": "21 PICATINNY"
+        },
+        {
+            "text": "Classe",
+            "value": "2 \/ < 1 mW (EN 60825-1:2014\/AC:2017)"
+        },
+        {
+            "text": "Longueur d'onde (en nm)",
+            "value": "650"
+        },
+        {
+            "text": "Poids (en g)",
+            "value": "28"
+        },
+        {
+            "text": "Longueur (mm)",
+            "value": "45"
+        },
+        {
+            "text": "Pile",
+            "value": "3 PILES LR44 INCLUSES"
+        },
+        {
+            "text": "Descriptif",
+            "value": null
+        }
+    ],
+    "images": [
+        "https:\/\/b2b.umarex.fr\/images\/reffourn\/33\/cd\/c6\/33cdc60be755e104e0dd120e765382b9.webp",
+        "https:\/\/b2b.umarex.fr\/images\/reffourn\/88\/a9\/72\/88a972584c28b05b349561869a971812.webp",
+        "https:\/\/b2b.umarex.fr\/images\/reffourn\/be\/8b\/44\/be8b4404040f6df80986e681a28e14b8.webp",
+        "https:\/\/b2b.umarex.fr\/images\/reffourn\/89\/41\/b3\/8941b34a69789971421062b905d779ca.webp",
+        "https:\/\/b2b.umarex.fr\/images\/reffourn\/79\/d1\/2e\/79d12e8816d8414b92c7065c1a3bbed4.webp"
+    ],
+    "documents": [
+        {
+            "nom": "LE_NOM_DU_FICHIER_DANS_LE_B2B",
+            "fichier": "https:\/\/b2b.umarex.fr\/documents\/reffourn\/20\/b2\/1b\/20b21b8641b954e1137899af906365c7.pdf"
+        },
+        {
+            "nom": "Manuel_d_utilisation.pdf",
+            "fichier": "https:\/\/b2b.umarex.fr\/documents\/reffourn\/20\/b2\/1b\/20b21b8641b954e1137899af906365c7.pdf"
+        }
+    ]
+}

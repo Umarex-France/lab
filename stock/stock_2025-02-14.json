@@ -1,0 +1,42 @@
+[
+    {
+        "ref": "800530",
+        "lib": "CART SANS PLOMB FOX BULLETS 222REM FOX CLASSIC HUNTER 45 GR (PAR BOITE DE 20)",
+        "pvht": 33.75,
+        "pvpcttc": 57.95,
+        "stock": 0,
+        "ean13": "3830067345410"
+    },
+    {
+        "ref": "800531",
+        "lib": "CART SANS PLOMB FOX BULLETS 223REM FOX CLASSIC HUNTER 50 GR (PAR BOITE DE 20)",
+        "pvht": 33.75,
+        "pvpcttc": 57.95,
+        "stock": 1,
+        "ean13": "3830067345199"
+    },
+    {
+        "ref": "800532",
+        "lib": "CART SANS PLOMB FOX BULLETS 223REM FOX CLASSIC HUNTER 55 GR (PAR BOITE DE 1000)",
+        "pvht": 33.75,
+        "pvpcttc": 4800,
+        "stock": 1,
+        "ean13": "3830067345427"
+    },
+    {
+        "ref": "800533",
+        "lib": "CART SANS PLOMB FOX BULLETS 243WIN FOX CLASSIC HUNTER 80 GR (PAR BOITE DE 20)",
+        "pvht": 45.75,
+        "pvpcttc": 77.95,
+        "stock": 1,
+        "ean13": "3830067345281"
+    },
+    {
+        "ref": "800534",
+        "lib": "CART SANS PLOMB FOX BULLETS 6,5X55SE FOX CLASSIC HUNTER 100 GR (PAR BOITE DE 20)",
+        "pvht": 48.75,
+        "pvpcttc": 50,
+        "stock": 0,
+        "ean13": "3830067345298"
+    }
+]
